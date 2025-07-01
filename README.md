@@ -69,5 +69,8 @@ This project is a React + TypeScript application implementing upvote button list
 
 ---
 
-## License
-MIT
+## Disclaimers
+
+- The decision to include a button for removing upvotes was made intentionally, even though it was not specified in the original test description. This was added to enhance usability and flexibility for the user.
+
+- This project was developed using **VS Code** with **GitHub Copilot**. This is the workflow I currently use in my projects to maximize productivity and code quality.
