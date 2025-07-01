@@ -1,0 +1,22 @@
+.upvote-container {
+  display: flex;
+  gap: 8px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.upvote-container:not(:last-child) {
+  margin-bottom: 16px;
+}
+
+.upvote-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-grow: 1;
+  align-items: flex-start;
+  gap: 8px;
+  min-height: 42px;
+  border-radius: 10px;
+  border: 1px solid #E9ECEF;
+  padding: 10px;
+}
