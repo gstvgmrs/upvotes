@@ -1,5 +1,7 @@
 # UpVotes
 
+![UpVotes Screenshot](upvotes-screenshot.png)
+
 This project is a React + TypeScript application implementing upvote button lists with global state, local persistence, and automated tests.
 
 ## Overview
